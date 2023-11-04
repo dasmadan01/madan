@@ -7,9 +7,9 @@
         "96": "./img/icon.png",
         "128": "./img/icon128.png"
     },
-    "author": "Ritwick Dey",
+    "author": "Madan Mohan Dasgupta",
     "short_name": "Live Server Web Extension",
-    "homepage_url": "https://github.com/ritwickdey/live-server-web-extension",
+    "homepage_url": "https://github.com/dasmadan01/madan",
     "content_scripts": [
         {
             "matches": [
